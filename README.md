@@ -24,3 +24,5 @@ This batch script provides an interactive menu to rename or restore the computer
 
 * The script is compatible with Windows and works best on systems with PowerShell and WMIC installed.
 * For troubleshooting, ensure you have administrator privileges and that PowerShell execution is allowed.
+
+credits: https://superuser.com/a/1685259, https://superuser.com/users/557920/hackoo
